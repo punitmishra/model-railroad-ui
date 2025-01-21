@@ -8,10 +8,26 @@
 ![](./docs/screenshots/Page1.png)
 ![](./docs/screenshots/Page1a.png)
 
-
+## Construction Zone
 ![](./docs/screenshots/ConstructionZone.png)
+
+## Diamond Crossing (1 on the entire layout)
 ![](./docs/screenshots/DiamondCrossing.png)
 
+## FireStation Control 
+![](./docs/screenshots/FireStationControl.png)
+
+## House Control System
+![](./docs/screenshots/HouseControlSystem.png)
+
+## ModelCafe Control
+![](./docs/screenshots/ModelCafeControl.png)
+
+## PoliceStation Control
+![](./docs/screenshots/PoliceStationControl.png)
+
+## TrainTracking System
+![](./docs/screenshots/TrainTrackingSystem.png)
 
 # Tree of the project important dir and files:
 
